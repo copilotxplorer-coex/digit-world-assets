@@ -1,0 +1,6 @@
+{
+  "id": "tree_node",
+  "type": "resource_node",
+  "resource": "wood",
+  "respawn_seconds": 300
+}

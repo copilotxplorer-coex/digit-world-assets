@@ -1,0 +1,10 @@
+{
+  "id": "fiber",
+  "type": "item",
+  "display": {
+    "name": "Fiber"
+  },
+  "stack": {
+    "max": 100
+  }
+}

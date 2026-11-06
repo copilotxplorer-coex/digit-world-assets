@@ -1,0 +1,5 @@
+{
+  "id": "stamina_rules",
+  "type": "stamina",
+  "max": 100
+}

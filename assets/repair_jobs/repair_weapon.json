@@ -1,0 +1,6 @@
+{
+  "id": "repair_weapon",
+  "type": "repair_job",
+  "station": "repair_station",
+  "time_seconds": 60
+}

@@ -1,0 +1,12 @@
+{
+  "asset_pack": "frontier_starter",
+  "asset_version": "1.2.1",
+  "features": [
+    "soul_digit",
+    "verified_work",
+    "wallets",
+    "escrow",
+    "ledger",
+    "reward_pool"
+  ]
+}

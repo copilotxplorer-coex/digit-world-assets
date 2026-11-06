@@ -1,0 +1,9 @@
+{
+  "id": "default_slots",
+  "type": "equipment_slots",
+  "slots": [
+    "weapon",
+    "offhand",
+    "body"
+  ]
+}

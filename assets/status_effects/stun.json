@@ -1,0 +1,6 @@
+{
+  "id": "stun",
+  "type": "status_effect",
+  "blocks_actions": true,
+  "stacking": false
+}

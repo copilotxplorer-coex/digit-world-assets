@@ -1,0 +1,7 @@
+{
+  "id": "wood_shield",
+  "type": "armor",
+  "slot": "offhand",
+  "block_power": 5,
+  "durability_max": 120
+}

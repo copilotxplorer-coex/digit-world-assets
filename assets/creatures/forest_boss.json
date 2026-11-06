@@ -1,0 +1,6 @@
+{
+  "id": "forest_boss",
+  "type": "boss",
+  "ai_profile": "aggressive",
+  "drop_table": "boss_drop"
+}

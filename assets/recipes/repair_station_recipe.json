@@ -1,0 +1,23 @@
+{
+  "id": "repair_station_recipe",
+  "type": "recipe",
+  "category": "station",
+  "time_seconds": 120,
+  "reservation_required": true,
+  "inputs": [
+    {
+      "item": "wood",
+      "count": 20
+    },
+    {
+      "item": "stone",
+      "count": 10
+    }
+  ],
+  "outputs": [
+    {
+      "asset": "repair_station",
+      "count": 1
+    }
+  ]
+}

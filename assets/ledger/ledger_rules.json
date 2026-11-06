@@ -1,0 +1,5 @@
+{
+  "id": "ledger_rules",
+  "type": "ledger",
+  "double_spend_protection": true
+}

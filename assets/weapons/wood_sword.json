@@ -1,0 +1,7 @@
+{
+  "id": "wood_sword",
+  "type": "weapon",
+  "attack": 5,
+  "durability_max": 100,
+  "supports_block": true
+}

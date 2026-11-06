@@ -1,0 +1,5 @@
+{
+  "id": "quest_giver",
+  "type": "npc",
+  "quest": "first_steps"
+}

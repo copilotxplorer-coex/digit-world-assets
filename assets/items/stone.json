@@ -1,0 +1,7 @@
+{
+  "id": "stone",
+  "type": "item",
+  "stack": {
+    "max": 100
+  }
+}

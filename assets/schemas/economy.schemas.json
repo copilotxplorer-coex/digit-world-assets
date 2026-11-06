@@ -1,0 +1,5 @@
+{
+  "resource_node.schema": "basic",
+  "gathering_job.schema": "basic",
+  "market.schema": "basic"
+}

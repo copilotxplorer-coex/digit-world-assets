@@ -1,0 +1,5 @@
+{
+  "id": "reward_budget",
+  "type": "budget",
+  "epoch_reward_cap": 10000
+}

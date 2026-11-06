@@ -1,0 +1,23 @@
+{
+  "id": "wood_wall_recipe",
+  "type": "recipe",
+  "category": "building",
+  "time_seconds": 30,
+  "reservation_required": true,
+  "cancel_on_combat": true,
+  "cancel_on_defeat_phase": true,
+  "refund_reserved_resources": true,
+  "station": null,
+  "inputs": [
+    {
+      "item": "wood",
+      "count": 5
+    }
+  ],
+  "outputs": [
+    {
+      "asset": "wood_wall",
+      "count": 1
+    }
+  ]
+}

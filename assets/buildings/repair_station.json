@@ -1,0 +1,11 @@
+{
+  "id": "repair_station",
+  "type": "building",
+  "health": {
+    "max": 300
+  },
+  "collision": true,
+  "services": [
+    "repair"
+  ]
+}

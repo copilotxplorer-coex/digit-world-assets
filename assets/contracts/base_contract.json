@@ -1,0 +1,11 @@
+{
+  "id": "base_contract",
+  "type": "contract",
+  "states": [
+    "OPEN",
+    "ACCEPTED",
+    "COMPLETED",
+    "FAILED",
+    "CANCELLED"
+  ]
+}

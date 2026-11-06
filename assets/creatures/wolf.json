@@ -1,0 +1,6 @@
+{
+  "id": "wolf",
+  "type": "creature",
+  "ai_profile": "aggressive",
+  "drop_table": "wolf_drop_v2"
+}

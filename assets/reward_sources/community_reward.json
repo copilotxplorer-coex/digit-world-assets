@@ -1,0 +1,5 @@
+{
+  "id": "community_reward",
+  "type": "reward_source",
+  "mint_allowed": false
+}

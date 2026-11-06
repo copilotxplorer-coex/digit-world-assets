@@ -1,0 +1,5 @@
+{
+  "id": "pk_bounty_rules",
+  "type": "bounty_rule",
+  "use_reward_pool": true
+}

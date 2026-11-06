@@ -1,0 +1,12 @@
+{
+  "id": "frontier_plains",
+  "type": "region",
+  "display": {
+    "name": "Frontier Plains"
+  },
+  "neighbors": [],
+  "tags": [
+    "starter",
+    "safe"
+  ]
+}

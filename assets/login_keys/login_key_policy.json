@@ -1,0 +1,5 @@
+{
+  "id": "login_key_policy",
+  "type": "login_key_policy",
+  "password_migration_supported": true
+}

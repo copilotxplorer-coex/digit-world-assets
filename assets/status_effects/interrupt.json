@@ -1,0 +1,5 @@
+{
+  "id": "interrupt",
+  "type": "status_effect",
+  "interrupts_actions": true
+}

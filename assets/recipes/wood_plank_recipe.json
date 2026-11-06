@@ -1,0 +1,17 @@
+{
+  "id": "wood_plank_recipe",
+  "type": "recipe",
+  "time": 10,
+  "inputs": [
+    {
+      "item": "wood",
+      "count": 2
+    }
+  ],
+  "outputs": [
+    {
+      "item": "wood_plank",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "body_attack",
+  "type": "skill",
+  "cooldown": 1,
+  "energy_cost": 0,
+  "effects": [
+    {
+      "type": "damage",
+      "value": 3
+    }
+  ]
+}

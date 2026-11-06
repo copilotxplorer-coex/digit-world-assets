@@ -1,0 +1,10 @@
+{
+  "id": "wood_plank",
+  "type": "item",
+  "display": {
+    "name": "Wood Plank"
+  },
+  "stack": {
+    "max": 100
+  }
+}

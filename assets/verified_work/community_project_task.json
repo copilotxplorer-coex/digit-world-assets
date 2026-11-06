@@ -1,0 +1,8 @@
+{
+  "id": "community_project_task",
+  "type": "verified_work",
+  "category": "community",
+  "reward_units": 25,
+  "requires_attestation": true,
+  "requires_checkpoint_commit": true
+}

@@ -1,0 +1,7 @@
+{
+  "id": "r1a_to_r1b",
+  "type": "zone_transfer",
+  "source": "frontier_r1a",
+  "target": "frontier_r1b",
+  "requires_not_in_combat": true
+}

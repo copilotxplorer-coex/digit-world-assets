@@ -1,0 +1,7 @@
+{
+  "id": "human_adventurer",
+  "type": "character_template",
+  "species": "human",
+  "stats": "base_stats",
+  "inventory": "default_inventory"
+}

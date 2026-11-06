@@ -1,0 +1,6 @@
+{
+  "id": "slime",
+  "type": "creature",
+  "ai_profile": "aggressive",
+  "drop_table": "slime_drop_v2"
+}

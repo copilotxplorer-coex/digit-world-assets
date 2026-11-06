@@ -1,0 +1,8 @@
+{
+  "id": "verifier_task",
+  "type": "verified_work",
+  "category": "verification",
+  "reward_units": 1,
+  "requires_attestation": true,
+  "requires_checkpoint_commit": true
+}

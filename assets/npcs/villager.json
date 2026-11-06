@@ -1,0 +1,5 @@
+{
+  "id": "villager",
+  "type": "npc",
+  "ai_profile": "passive"
+}

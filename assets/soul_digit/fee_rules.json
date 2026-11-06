@@ -1,0 +1,6 @@
+{
+  "id": "fee_rules",
+  "type": "fee_rule",
+  "sender_share": 0.5,
+  "receiver_share": 0.5
+}

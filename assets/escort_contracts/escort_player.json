@@ -1,0 +1,8 @@
+{
+  "id": "escort_player",
+  "type": "escort_contract",
+  "fail_conditions": [
+    "client_dead"
+  ],
+  "requires_not_in_combat": true
+}

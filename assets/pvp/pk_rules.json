@@ -1,0 +1,5 @@
+{
+  "id": "pk_rules",
+  "type": "pvp_rules",
+  "self_defense_window_minutes": 5
+}

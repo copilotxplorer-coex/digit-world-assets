@@ -1,0 +1,5 @@
+{
+  "id": "transfer_rules",
+  "type": "transfer_rule",
+  "fee_percent": 2.0
+}

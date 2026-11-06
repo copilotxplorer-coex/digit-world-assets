@@ -1,0 +1,7 @@
+{
+  "id": "verified_work_reward",
+  "type": "reward_source",
+  "mint_allowed": true,
+  "requires_attestation": true,
+  "requires_checkpoint_commit": true
+}

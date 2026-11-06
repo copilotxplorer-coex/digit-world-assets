@@ -1,0 +1,8 @@
+{
+  "id": "frontier_r1b",
+  "type": "region",
+  "authority_runtime": "R1B",
+  "neighbors": [
+    "frontier_r1a"
+  ]
+}

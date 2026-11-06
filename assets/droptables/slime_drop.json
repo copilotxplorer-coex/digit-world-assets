@@ -1,0 +1,10 @@
+{
+  "id": "slime_drop",
+  "type": "drop_table",
+  "entries": [
+    {
+      "item": "fiber",
+      "chance": 1.0
+    }
+  ]
+}

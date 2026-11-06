@@ -1,0 +1,5 @@
+{
+  "id": "defeat_state",
+  "type": "death_state",
+  "freeze_after_defeat": true
+}

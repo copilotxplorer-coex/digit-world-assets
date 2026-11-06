@@ -1,0 +1,7 @@
+{
+  "id": "health",
+  "component": "health",
+  "fields": [
+    "max_hp"
+  ]
+}

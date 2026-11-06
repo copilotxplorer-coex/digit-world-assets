@@ -1,0 +1,5 @@
+{
+  "id": "default_loot",
+  "type": "loot_rule",
+  "single_winner": true
+}

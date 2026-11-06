@@ -1,0 +1,8 @@
+{
+  "id": "repair_station",
+  "type": "station",
+  "services": [
+    "repair",
+    "craft"
+  ]
+}

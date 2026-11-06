@@ -1,0 +1,12 @@
+{
+  "regions": [
+    "frontier_r1a",
+    "frontier_r1b"
+  ],
+  "links": [
+    {
+      "a": "frontier_r1a",
+      "b": "frontier_r1b"
+    }
+  ]
+}

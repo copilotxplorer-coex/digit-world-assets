@@ -1,0 +1,11 @@
+{
+  "id": "wood_sword",
+  "type": "equipment",
+  "slot": "weapon",
+  "durability": {
+    "max": 100
+  },
+  "combat": {
+    "attack": 5
+  }
+}

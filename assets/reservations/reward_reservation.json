@@ -1,0 +1,5 @@
+{
+  "id": "reward_reservation",
+  "type": "reservation",
+  "escrow_required": true
+}

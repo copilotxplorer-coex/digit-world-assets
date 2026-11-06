@@ -1,0 +1,7 @@
+{
+  "id": "base_stats",
+  "type": "stats",
+  "hp": 100,
+  "energy": 100,
+  "stamina": 100
+}

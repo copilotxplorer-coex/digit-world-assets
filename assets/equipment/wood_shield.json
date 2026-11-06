@@ -1,0 +1,11 @@
+{
+  "id": "wood_shield",
+  "type": "equipment",
+  "slot": "offhand",
+  "durability": {
+    "max": 120
+  },
+  "combat": {
+    "block": 5
+  }
+}

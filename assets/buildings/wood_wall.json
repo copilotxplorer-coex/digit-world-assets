@@ -1,0 +1,7 @@
+{
+  "id": "wood_wall",
+  "type": "building",
+  "health": {
+    "max": 100
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "id": "reward_formula",
+  "type": "formula",
+  "formula": "reward_pool * worker_units / total_units"
+}

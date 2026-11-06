@@ -1,0 +1,8 @@
+{
+  "id": "attestation_requirements",
+  "type": "attestation_rule",
+  "required": [
+    "TrustedVerifier",
+    "CheckpointCommit"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "small_house",
+  "type": "building",
+  "health": {
+    "max": 500
+  },
+  "housing": {
+    "capacity": 4
+  }
+}

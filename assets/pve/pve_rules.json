@@ -1,0 +1,5 @@
+{
+  "id": "pve_rules",
+  "type": "pve_rules",
+  "monster_loot_enabled": true
+}

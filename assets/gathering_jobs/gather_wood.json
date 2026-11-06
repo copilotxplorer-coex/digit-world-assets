@@ -1,0 +1,6 @@
+{
+  "id": "gather_wood",
+  "type": "gathering_job",
+  "resource_node": "tree_node",
+  "time_seconds": 10
+}

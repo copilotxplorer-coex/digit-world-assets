@@ -1,0 +1,8 @@
+{
+  "id": "checkpoint_task",
+  "type": "verified_work",
+  "category": "checkpoint",
+  "reward_units": 10,
+  "requires_attestation": true,
+  "requires_checkpoint_commit": true
+}

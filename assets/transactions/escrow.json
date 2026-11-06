@@ -1,0 +1,5 @@
+{
+  "id": "escrow",
+  "type": "transaction",
+  "requires_reservation": true
+}

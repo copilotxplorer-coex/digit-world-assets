@@ -1,0 +1,6 @@
+{
+  "id": "slime_spawn",
+  "type": "spawn_rule",
+  "region": "frontier_r1a",
+  "creature": "slime"
+}
